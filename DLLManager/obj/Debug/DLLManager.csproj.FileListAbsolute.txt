@@ -1,0 +1,6 @@
+c:\users\ravi\documents\visual studio 2012\Projects\DLLManager\DLLManager\bin\Debug\DLLManager.exe.config
+c:\users\ravi\documents\visual studio 2012\Projects\DLLManager\DLLManager\bin\Debug\DLLManager.exe
+c:\users\ravi\documents\visual studio 2012\Projects\DLLManager\DLLManager\bin\Debug\DLLManager.pdb
+c:\users\ravi\documents\visual studio 2012\Projects\DLLManager\DLLManager\obj\Debug\DLLManager.csprojResolveAssemblyReference.cache
+c:\users\ravi\documents\visual studio 2012\Projects\DLLManager\DLLManager\obj\Debug\DLLManager.exe
+c:\users\ravi\documents\visual studio 2012\Projects\DLLManager\DLLManager\obj\Debug\DLLManager.pdb
